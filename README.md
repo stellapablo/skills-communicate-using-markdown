@@ -1,9 +1,4 @@
-# Communicate using H1 tag
-## Communicate using H2 tag
-
-- [x] First task
-- [x] Second task
-- [ ] Third task
+# Welcome to "Communicate using Markdown"! 👋
 
 <header>
 
